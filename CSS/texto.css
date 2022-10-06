@@ -1,0 +1,104 @@
+.titulo {
+    text-align: center;
+    font-size: 60px;
+    position:fixed;
+	  left:1px;
+	  top:50px;
+    margin: 0;
+    background: transparent;
+    padding: 0;
+    border: none;
+  }
+  .titulo {
+    --border-right: 4px;
+    --text-stroke-color: rgb(255, 255, 255);
+    --animation-color: #37FF8B;
+    --fs-size: 2em;
+    letter-spacing: 2px;
+    text-decoration: none;
+    font-family: cursive;
+    position: relative;
+    text-transform: uppercase;
+    color: transparent;
+    -webkit-text-stroke: 1px var(--text-stroke-color);
+  }
+  .hover-text {
+    position:absolute;
+    box-sizing: border-box;
+    content: attr(data-text);
+    color: var(--animation-color);
+    width: 0%;
+    inset: 0;
+    border-right: var(--border-right) solid var(--animation-color);
+    overflow: hidden;
+    transition: 0.5s;
+    -webkit-text-stroke: 1px var(--animation-color);
+  }
+  .titulo:hover .hover-text {
+    width: 100%;
+    filter: drop-shadow(0 0 23px var(--animation-color))
+  }
+
+.texto {
+    position:fixed;
+	  left:75px;
+	  top:140px;
+    font-family: cursive;
+    color: aliceblue;
+}
+.subtexto {
+    position:fixed;
+	  left:75px;
+  	top:200px;
+    font-family: cursive;
+    color: aliceblue;
+}
+.subtextoa {
+    position:fixed;
+    left:75px;
+    top:200px;
+    font-family: cursive;
+    color: aliceblue;
+}
+.textoa {
+  position:fixed;
+  left:90px;
+  top:250px;
+  font-family: cursive;
+  color: aliceblue;
+}
+.subtextob {
+  position:fixed;
+  left:75px;
+  top:360px;
+  font-family: cursive;
+  color: aliceblue;
+}
+.textob {
+  position:fixed;
+  left:90px;
+  top:410px;
+  font-family: cursive;
+  color: aliceblue;
+}
+.creadort {
+  position:fixed;
+  left:275px;
+  top:350px;
+  font-family: cursive;
+  color: aliceblue;
+}
+.creadortroll {
+  position:fixed;
+  left:275px;
+  top:500px;
+  font-family: cursive;
+  color: rgba(240, 248, 255, 0.171);
+}
+.derechos {
+  position:fixed;
+  left:7px;
+  top:544px;
+  font-family: Arial;
+  color: rgba(255, 255, 255, 0.849);
+}

@@ -1,0 +1,17 @@
+body {
+    height: 400px;
+    background-image: url("https://es.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_minecraft_dungeons_01_2560x1080.jpg&height=506&sharpen");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+.img1 {
+  height: 180px;
+  padding: 1px;
+  margin: 1px;
+  border: 5px solid black;
+  position:fixed;
+  left:75px;
+	top:360px;
+}
