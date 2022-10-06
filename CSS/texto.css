@@ -38,7 +38,6 @@
     width: 100%;
     filter: drop-shadow(0 0 23px var(--animation-color))
   }
-
 .texto {
     position:fixed;
 	  left:75px;
@@ -83,17 +82,17 @@
 }
 .creadort {
   position:fixed;
-  left:275px;
-  top:350px;
+  left:170px;
+  top:420px;
   font-family: cursive;
   color: aliceblue;
 }
 .creadortroll {
   position:fixed;
-  left:275px;
-  top:500px;
+  left:175px;
+  top:480px;
   font-family: cursive;
-  color: rgba(240, 248, 255, 0.171);
+  color: rgba(240, 248, 255, 0.089);
 }
 .derechos {
   position:fixed;

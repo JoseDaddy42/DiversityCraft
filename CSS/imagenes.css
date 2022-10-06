@@ -5,13 +5,12 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
   }
-
 .img1 {
-  height: 180px;
+  height: 80px;
   padding: 1px;
   margin: 1px;
   border: 5px solid black;
   position:fixed;
   left:75px;
-	top:360px;
+	top:440px;
 }

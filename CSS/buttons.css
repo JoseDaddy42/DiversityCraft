@@ -30,10 +30,10 @@
     transform: translateY(-1px);
   }
 
-.button1 {
+  .button1 {
     position:fixed;
-    left:250px;
-    top:290px;
+	left:250px;
+	top:290px;
     text-align: center;
     padding: 1.3em 3em;
     font-size: 12px;
@@ -62,14 +62,10 @@
     transform: translateY(-1px);
   }
 
-  .button:active {
-    transform: translateY(-1px);
-  }
-
   .button2 {
     position:fixed;
-    left:440px;
-    top:290px;
+	left:440px;
+	top:290px;
     text-align: center;
     padding: 1.3em 3em;
     font-size: 12px;
@@ -88,8 +84,8 @@
   }
   
   .button2:hover {
-    background-color: #23c483;
-    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    background-color: #3d45b4;
+    box-shadow: 0px 15px 20px rgb(46, 80, 229);
     color: #fff;
     transform: translateY(-7px);
   }
