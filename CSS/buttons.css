@@ -20,8 +20,8 @@
   }
   
   .button:hover {
-    background-color: #23c483;
-    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    background-color: #3bb1ff;
+    box-shadow: 0px 15px 20px rgb(86, 193, 255);
     color: #fff;
     transform: translateY(-7px);
   }
@@ -30,10 +30,10 @@
     transform: translateY(-1px);
   }
 
-  .button1 {
+.button1 {
     position:fixed;
-	left:250px;
-	top:290px;
+    left:250px;
+    top:290px;
     text-align: center;
     padding: 1.3em 3em;
     font-size: 12px;
@@ -68,8 +68,8 @@
 
   .button2 {
     position:fixed;
-	left:440px;
-	top:290px;
+    left:440px;
+    top:290px;
     text-align: center;
     padding: 1.3em 3em;
     font-size: 12px;
