@@ -21,7 +21,7 @@
   
   .button:hover {
     background-color: #3bb1ff;
-    box-shadow: 0px 15px 20px rgb(86, 193, 255);
+    box-shadow: 0px 15px 20px rgba(86, 193, 255, 0.445);
     color: #fff;
     transform: translateY(-7px);
   }
@@ -85,7 +85,10 @@
   
   .button2:hover {
     background-color: #3d45b4;
-    box-shadow: 0px 15px 20px rgb(46, 80, 229);
+    box-shadow: 0px 15px 20px rgba(46, 80, 229, 0.493);
+    color: #fff;
+    transform: translateY(-7px);
+  }
     color: #fff;
     transform: translateY(-7px);
   }
