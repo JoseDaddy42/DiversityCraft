@@ -53,8 +53,8 @@ html {
     position: fixed;
     top: 0;
     left: -100%;
-    width: 50%;
-    height: 25%;
+    width: 300px;
+    height: 700px;
     margin: 0;
     padding: 90px 0;
     list-style: none;
