@@ -1,7 +1,7 @@
 .button {
   position: absolute;
   left: 45%;
-	top: 350px;
+  top: 350px;
   width: 100px;
   text-align: center;
   padding: 1.3em 3em;
@@ -67,7 +67,7 @@
 .button2 {
   position: absolute;
   left: 45%;
-	top: 410px;
+  top: 410px;
   width: 100px;
   text-align: center;
   padding: 1.3em 3em;
@@ -109,8 +109,8 @@
   font-family: cursive;
   font-weight: 700;
   position:absolute;
-	left: 9%;
-	top: 290px;
+  left: 120px;
+  top: 290px;
   transition: all 0.5s;
   z-index: 1;
   }
@@ -149,8 +149,8 @@
   font-family: cursive;
   font-weight: 700;
   position:absolute;
-	left: 9%;
-	top: 450px;
+  left: 120px;
+  top: 450px;
   transition: all 0.5s;
   z-index: 1;
   } 
@@ -180,7 +180,7 @@
 .back {
   position: absolute;
   top: 40px;
-  left: 3%;
+  left: 30px;
   cursor: pointer;
   font-family: cursive;
   color: aliceblue;
@@ -190,13 +190,10 @@
   letter-spacing: -7px;
   -webkit-text-stroke: #fff 2px;
   }
-  .back:hover {
-    -webkit-text-stroke: rgb(255, 118, 55) 2px;
-    color: #fff;
-    transform: translateY(-7px);
-  }
   .back:active {
+    animation: 10s;
     transform: translateY(-7px);
+    -webkit-text-stroke: rgb(255, 118, 55) 2px;
 }
 
 
@@ -213,8 +210,8 @@
   font-family: cursive;
   font-weight: 700;
   position:absolute;
-	left: 9%;
-	top: 530px;
+  left: 120px;
+  top: 530px;
   transition: all 0.5s;
   z-index: 1;
   }  
