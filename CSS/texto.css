@@ -124,7 +124,9 @@
   width: auto;
   height: auto;
   position:absolute;
-	left: 7.8%;
+
+
+  left: 7.8%;
   top: 1240px;
   font-family: cursive;
   color: aliceblue;
@@ -185,7 +187,7 @@
   width: auto;
   height: auto;
   position:absolute;
-  left: 28px;
+  left: 36px;
   top: 480px;
   font-family: cursive;
   color: aliceblue;
