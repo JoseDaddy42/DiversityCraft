@@ -1,0 +1,237 @@
+.button {
+  position: absolute;
+	left: 7%;
+	top: 320px;
+  text-align: center;
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  font-family: cursive;
+  }
+  .button:hover {
+    background-color: #3bb1ff;
+    box-shadow: 0px 15px 20px rgba(86, 193, 255, 0.445);
+    color: #fff;
+    transform: translateY(-7px);
+  }
+  .button:active {
+    transform: translateY(-1px);
+}
+
+
+
+.button1 {
+  position:absolute;
+	left: 26%;
+	top: 320px;
+  text-align: center;
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  font-family: cursive;
+  }
+  .button1:hover {
+    background-color: #23c483;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+  }
+  .button1:active {
+    transform: translateY(-1px);
+}
+
+
+
+.button2 {
+  position:absolute;
+	left: 46.5%;
+	top: 320px;
+  text-align: center;
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  font-family: cursive;
+  }
+  .button2:hover {
+    background-color: #3d45b4;
+    box-shadow: 0px 15px 20px rgba(46, 80, 229, 0.493);
+    color: #fff;
+    transform: translateY(-7px);
+  }
+  .button2:active {
+    transform: translateY(-1px);
+}
+
+
+
+.buttond {
+  width: 150px;
+  height: 30px;
+  font-size: 110%;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: rgb(89, 177, 248);
+  font-family: cursive;
+  font-weight: 700;
+  position:absolute;
+	left: 9%;
+	top: 290px;
+  transition: all 0.5s;
+  z-index: 1;
+  }
+  .buttond::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 5px;
+    height: 100%;
+    background-color: white;
+    z-index: -1;
+    transition: all 0.5s;
+  }
+  .buttond:hover::before {
+    width: 100%;
+  }
+  .buttond:hover {
+    color: black;
+  }
+  .buttond:active:before {
+    background: #b9b9b9;
+}
+
+
+
+.buttondb {
+  width: 150px;
+  height: 30px;
+  font-size: 115%;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: rgb(89, 177, 248);
+  font-family: cursive;
+  font-weight: 700;
+  position:absolute;
+	left: 9%;
+	top: 450px;
+  transition: all 0.5s;
+  z-index: 1;
+  } 
+  .buttondb::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 5px;
+    height: 100%;
+    background-color: white;
+    z-index: -1;
+    transition: all 0.5s;
+  }
+  .buttondb:hover::before {
+    width: 100%;
+  } 
+  .buttondb:hover {
+    color: black;
+  } 
+  .buttondb:active:before {
+    background: #b9b9b9;
+}
+
+
+
+.back {
+  position: absolute;
+  top: 45px;
+  left: 40px;
+  cursor: pointer;
+  font-family: cursive;
+  color: aliceblue;
+  font-size: 26px;
+  text-decoration: none;
+  text-shadow: #000;
+  letter-spacing: -7px;
+  -webkit-text-stroke: #fff 2px;
+  }
+  .back:hover {
+    -webkit-text-stroke: rgb(255, 118, 55) 2px;
+    color: #fff;
+    transform: translateY(-7px);
+  }
+  .back:active {
+    transform: translateY(-7px);
+}
+
+
+
+.buttontroll {
+  width: 200px;
+  height: 30px;
+  font-size: 115%;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: rgb(89, 177, 248);
+  font-family: cursive;
+  font-weight: 700;
+  position:absolute;
+	left: 9%;
+	top: 530px;
+  transition: all 0.5s;
+  z-index: 1;
+  }  
+  .buttontroll::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 5px;
+    height: 100%;
+    background-color: white;
+    z-index: -1;
+    transition: all 0.5s;
+  }
+  .buttontroll:hover::before {
+    width: 100%;
+  } 
+  .buttontroll:hover {
+    color: black;
+  }
+  .buttontroll:active:before {
+    background: #b9b9b9;
+}
