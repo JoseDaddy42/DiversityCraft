@@ -1,0 +1,210 @@
+.titulo {
+  width: 75%;
+  height: 0px;
+  position:absolute;
+  font-size: 50px;
+  font-family: cursive;
+  top: -10px;
+  left: 85px;
+  -webkit-text-stroke: 1px aliceblue;
+  color: transparent;
+  min-width: 100px;
+  text-align: justify
+}
+
+
+
+.texto {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 120px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.subtexto {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 190px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.menuop1 {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 660px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.subtextom1 {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 700px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.menuop2 {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 790px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.subtextom2 {
+  width: 75%;
+  height: auto;
+  position:absolute;
+	top: 830px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.menuop3 {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 985px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+	
+
+
+.subtextom3 {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 1030px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.menuop4 {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 1190px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.subtextom4 {
+  width: 75%;
+  height: auto;
+  position:absolute;
+	top: 1240px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+
+.subtextoa {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 180px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.textoa {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 230px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.subtextob {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 340px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.textob {
+  width: 75%;
+  height: auto;
+  position:absolute;
+  top: 390px;
+  left: 85px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
+
+
+
+.creador {
+  width: auto;
+  height: auto;
+  position:absolute;
+  top: 490px;
+  left: 175px;
+  font-family: cursive;
+  color: aliceblue;
+  text-align: justify
+}
